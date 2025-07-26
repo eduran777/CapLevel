@@ -55,8 +55,6 @@ Se realizaron pruebas para comparar el nivel real con el nivel medido por el sis
 
 ## 📁 Estructura del Repositorio
 
-# 📁 Estructura del Repositorio
-
 ```plaintext
 CapLevel/
 ├── firmware/             # Código en C para el PIC18F4550
@@ -70,7 +68,7 @@ CapLevel/
 │
 ├── data/                 # Tablas de resultados y mediciones
 │   ├── tabla_mediciones.csv
-│   └── resultados.xlsx
+│   
 │
 ├── images/               # Capturas de pantalla y diagramas del sistema
 │   ├── interfaz.png
